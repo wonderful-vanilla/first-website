@@ -1,0 +1,21 @@
+html {
+    
+}
+
+/* {
+    box-sizing: border-box;
+}
+*/
+::-webkit-scrollbar {
+    
+    display: none;
+}
+
+/*::-webkit-scrollbar-track {
+    background: rgb(0, 0, 0);
+}
+
+/* Handle 
+::-webkit-scrollbar-thumb {
+    background: orange;
+}*/
